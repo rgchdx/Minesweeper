@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="minesweeper">Minesweeper</string>
+    <string name="toggle_flag_mode">Toggle flag mode</string>
+    <string name="you_lose">You Lose</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="you_win">You Win</string>
+</resources>
